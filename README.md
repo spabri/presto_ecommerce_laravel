@@ -1,12 +1,1 @@
-Legenda:
-/ = importato da tutti;
-| = ancora da importare;
-
-## Building degli Assets; 
-## Creato palette colori;
-## Importato Swiper; 
-## Register e Login
-##
-
-
-<!-- ! classi active navbar da fare  -->
+E-commerce realizzato con framework Laravel e db mysql. Possibilità di registrarsi, inserire annunci, visualizzarli, area revisore per approvarli, invio mail (lavora con noi), area utente, filtro per categorie, barra di ricerca, crop immagini, google api per watermark su immagini, censura volti e riconoscimento tag immagini. Lingue disponibili: italiano, inglese e francese.
